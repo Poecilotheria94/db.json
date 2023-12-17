@@ -1,0 +1,31 @@
+{
+  "articoli": [],
+  "users": [
+    {
+      "email": "ramil@gmail.com",
+      "password": "$2a$10$2i/mqaz9N0IGKX9ujDERUOTfSZM4Z2fb9b3M9Ao6D4A/GSCwMJmya",
+      "name": "Mario Rossi",
+      "id": 1
+    },
+    {
+      "email": "mario@gmail.com",
+      "password": "$2a$10$DO8dQzENSmO9k/Qx9wynMOo4nN1g0SEwV5D8C3wUFPdpaV.86BTo2",
+      "name": "Mario Rossi",
+      "id": 2
+    }
+  ],
+  "conti": [
+    {
+      "id": 1,
+      "intestatario": "Matteo",
+      "saldo": 1100,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "intestatario": "Mario",
+      "saldo": 100,
+      "userId": 1
+    }
+  ]
+}
